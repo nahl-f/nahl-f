@@ -53,7 +53,7 @@ I'm a 3rd-year engineering student at Ontario Tech University passionate about b
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="(https://github.com/nahl-f/Jackal-Person-Nav)">Jackal Person-Goal Nav</a></h3>
+      <h3>🤖 <a href="https://github.com/nahl-f/Jackal-Person-Nav">Jackal Person-Goal Nav</a></h3>
       <p>A non-blocking ROS 2 state machine integrating Nav2 and visual search (YOLO + DeepFace) for multi-point autonomous navigation on a Clearpath Jackal UGV. Validated in Gazebo and real-world environments.</p>
       <code>ROS 2</code> <code>Python</code> <code>Nav2</code> <code>OpenCV</code>
     </td>
@@ -66,7 +66,7 @@ I'm a 3rd-year engineering student at Ontario Tech University passionate about b
   <tr>
     <td width="50%" valign="top">
       <h3>⚙️ <a href="#">Onboard Jackal Deployment</a></h3>
-      <p>The hardware and system integration layer for the Jackal UGV. Features custom DFA-compliant 3D-printed payload mounts and containerized deployment environments using Docker and UDP networking scripts.</p>
+      <p>The hardware and system integration layer for the Jackal UGV. Features containerized deployment environments using Docker and UDP networking scripts.</p>
       <code>Docker</code> <code>Linux</code> <code>SolidWorks</code> <code>3D Printing</code>
     </td>
     <td width="50%" valign="top">
