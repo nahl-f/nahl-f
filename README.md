@@ -58,19 +58,19 @@ I'm a 3rd-year engineering student at Ontario Tech University passionate about b
       <code>ROS 2</code> <code>Python</code> <code>Nav2</code> <code>OpenCV</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="#">CodebaseQnA</a></h3>
+      <h3>🧠 <a href="https://github.com/nahl-f/CodebaseQnA">CodebaseQnA</a></h3>
       <p>A multimodal Retrieval-Augmented Generation (RAG) system utilizing AST parsing, LangChain, and ChromaDB to interpret complex codebases and answer technical queries via a Gradio dashboard.</p>
       <code>Python</code> <code>LangChain</code> <code>ChromaDB</code> <code>Gradio</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ <a href="#">Onboard Jackal Deployment</a></h3>
+      <h3>⚙️ <a href="https://github.com/nahl-f/Onboard-Jackal">Onboard Jackal Deployment</a></h3>
       <p>The hardware and system integration layer for the Jackal UGV. Features containerized deployment environments using Docker and UDP networking scripts.</p>
       <code>Docker</code> <code>Linux</code> <code>SolidWorks</code> <code>3D Printing</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🦾 <a href="#">Brailliant Assistive Device</a></h3>
+      <h3>🦾 <a href="https://github.com/Johnathan-Lavoie/HackHive2026">Brailliant Assistive Device</a></h3>
       <p>An ESP32-based assistive Braille learning device integrating a servo-actuated tactile display, keypad, and voice interface. Built with C++ and Python (Winner: Best Hardware Hack, HackHive).</p>
       <code>C++</code> <code>ESP32</code> <code>Embedded Hardware</code>
     </td>
