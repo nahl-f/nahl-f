@@ -78,6 +78,6 @@ I'm a 3rd-year engineering student at Ontario Tech University passionate about b
 </table>
 
 <br>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nahl-f&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-</p>
+</p> -->
