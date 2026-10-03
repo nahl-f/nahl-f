@@ -53,7 +53,7 @@ I'm a 3rd-year engineering student at Ontario Tech University passionate about b
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="[#](https://github.com/nahl-f/Jackal-Person-Nav)">Jackal Person-Goal Nav</a></h3>
+      <h3>🤖 <a href="(https://github.com/nahl-f/Jackal-Person-Nav)">Jackal Person-Goal Nav</a></h3>
       <p>A non-blocking ROS 2 state machine integrating Nav2 and visual search (YOLO + DeepFace) for multi-point autonomous navigation on a Clearpath Jackal UGV. Validated in Gazebo and real-world environments.</p>
       <code>ROS 2</code> <code>Python</code> <code>Nav2</code> <code>OpenCV</code>
     </td>
