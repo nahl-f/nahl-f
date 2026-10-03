@@ -15,9 +15,9 @@
 I'm a 3rd-year engineering student at Ontario Tech University passionate about bridging the gap between **software algorithms, embedded hardware, and mechanical CAD**. Recently, I was an Undergraduate Research Fellow at the University of Waterloo A.I.R. Lab, field-testing autonomous robotics.
 
 - 🔭 **Currently working on:** Embedded systems, autonomous navigation, and intelligent hardware.
-- 🌱 **Learning:** Advanced computer vision pipelines and sensor fusion (EKF/SLAM).
-- ⚙️ **Hardware I play with:** Clearpath Jackal/Husky UGVs, Intel RealSense, ESP32, LiDAR.
-- ⚡ **Fun fact:** I once simulated 150+ lap-time scenarios just to avoid manufacturing a custom sprocket.
+- 🌱 **Learning:** End-to-end robotics development, improving mechanical design and learning new AI tools for software development.
+- ⚙️ **Hardware I play with:** Clearpath Jackal/Husky UGVs, Intel RealSense Depth Cameras, Arduino, ESP32, LiDAR, various sensors and actuators.
+- ⚡ **Fun fact:** All the stickers on my laptop are like a scrapbook of all the hackathons I've been to!
 
 ---
 
@@ -53,7 +53,7 @@ I'm a 3rd-year engineering student at Ontario Tech University passionate about b
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="#">Jackal Person-Goal Nav</a></h3>
+      <h3>🤖 <a href="[#](https://github.com/nahl-f/Jackal-Person-Nav)">Jackal Person-Goal Nav</a></h3>
       <p>A non-blocking ROS 2 state machine integrating Nav2 and visual search (YOLO + DeepFace) for multi-point autonomous navigation on a Clearpath Jackal UGV. Validated in Gazebo and real-world environments.</p>
       <code>ROS 2</code> <code>Python</code> <code>Nav2</code> <code>OpenCV</code>
     </td>
